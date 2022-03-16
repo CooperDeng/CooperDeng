@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @CooperDeng
 - 👀 I’m interested in machine learning, computer vision, PC parts and assembly, Arduino, Raspberry Pi, etc
 - 👓 I'm currently having familiarity with C++, C, python, VHDL and MySQL!
+- 👦 I'm interested in solving puzzles & complex logic problems!
+- 👨‍🎤 I'm good at video editing using Final Cut Pro X!
 - 🌱 I’m currently working towards a Bachelor's degree in Computer Engineering at the University of Waterloo! I am currently in my 1B term.
 - 💞️ I’m looking for co-op jobs that are related to event planning or software engineering! 
 - 📫 Feel free to reach me by my email: c39deng@uwaterloo.ca
